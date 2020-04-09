@@ -1,7 +1,7 @@
 import sys
 import os
 
-#main function
+#main function!
 def main():
     print("hello world")
 
