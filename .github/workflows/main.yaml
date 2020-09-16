@@ -8,7 +8,7 @@ jobs:
       # Step 1
       # To use this repository's private action,
       # you must check out the repository
-      - name: Checkout hw-docker-action repository 
+      - name: Checkout test repository 
         uses: actions/checkout@master
       # Step 2
       - name: Checkout habits repository
