@@ -17,7 +17,7 @@ jobs:
         # v2 checks out only one commit
         with:
           repository: starlab-io/habits
-          ref: 93_action_tweak
+          ref: enrich_graphql_updates
           token: ${{ secrets.HABITS_NEW }}
           path: habits
       # Step 3
